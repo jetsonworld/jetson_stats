@@ -99,3 +99,6 @@ p 및 m 팬 속도 증가 및 감소
 [jetson_docker]: https://github.com/rbonghi/jetson_stats/wiki/jetson_docker
 [NVIDIA]: https://www.nvidia.com/
 [NVIDIA Jetson]: http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html
+
+## 참고
+[Jetson stats](https://github.com/rbonghi/jetson_stats)
