@@ -84,11 +84,11 @@ p 및 m 팬 속도 증가 및 감소
 
 
 ## [**jetson_release**][jetson_release]
-The command show the status and all information about your [NVIDIA Jetson][NVIDIA Jetson]
+이 명령은 [NVIDIA Jetson][NVIDIA Jetson] 의 상태 및 모든 정보를 표시합니다
 
 ![jtop](https://github.com/rbonghi/jetson_stats/wiki/images/jetso_release.png)
 ## [**jetson_variables**][jetson_variables]
-This script generate the easy environment variables to know which is your Hardware version of the Jetson and which Jetpack you have already installed
+이 스크립트는 쉬운 환경 변수를 생성하여 Jetson의 하드웨어 버전과 이미 설치 한 Jetpack을 확인합니다.
 
 ![jtop](https://github.com/rbonghi/jetson_stats/wiki/images/jetson_env.png)
 
